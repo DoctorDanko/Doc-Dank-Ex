@@ -1,0 +1,1300 @@
+{
+  "pf2e.book-of-the-dead-bestiary": {
+    "j777BjOqZff6S1v9": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/book-of-the-dead/Bhuta.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/book-of-the-dead/Bhuta.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "ol2lji9lH7PXh1uw": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/book-of-the-dead/Bone-Croupier.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/book-of-the-dead/Bone-Croupier.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "sgeULAtaLvg0Uhyn": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/book-of-the-dead/Cadaverous-Rake.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/book-of-the-dead/Cadaverous-Rake.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "NcqruxA82SFvTnD1": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/book-of-the-dead/Child-Of-Urgathoa.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/book-of-the-dead/Child-Of-Urgathoa.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "vaVIJeQnKFUeaC8K": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/book-of-the-dead/Combusted.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/book-of-the-dead/Combusted.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Y2Fiu9T1xwSBPVTV": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/book-of-the-dead/Corpseroot.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/book-of-the-dead/Corpseroot.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "ishwgxZAlNJxNwGE": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/book-of-the-dead/Daqqanoenyent.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/book-of-the-dead/Daqqanoenyent.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "7WqlOvjoqURmeorA": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/book-of-the-dead/Death-Coach.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/book-of-the-dead/Death-Coach.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "27NxweHr9rB1hDCn": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/book-of-the-dead/Deathless-Acolyte-Of-Urgathoa.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/book-of-the-dead/Deathless-Acolyte-Of-Urgathoa.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "h0OtQsMR4OqnYatd": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/book-of-the-dead/Deathless-Hierophant-Of-Urgathoa.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/book-of-the-dead/Deathless-Hierophant-Of-Urgathoa.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "S5dXAmvghYCIrQDe": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/book-of-the-dead/Decrepit-Mummy.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/book-of-the-dead/Decrepit-Mummy.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "sucEX2JFrVevTNjU": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/book-of-the-dead/Drake-Skeleton.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/book-of-the-dead/Drake-Skeleton.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "zqftTUpxqkdLx2IY": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/book-of-the-dead/Ecorche.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/book-of-the-dead/Ecorche.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "KhHVStbsPSuPElFI": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/book-of-the-dead/Excorion.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/book-of-the-dead/Excorion.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "A5GOni2mXNhVsdRg": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/book-of-the-dead/Faithless-Ecclesiarch.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/book-of-the-dead/Faithless-Ecclesiarch.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "JazJz2crkoG9koQR": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/book-of-the-dead/Fallen-Champion.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/book-of-the-dead/Fallen-Champion.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "EDhme1IKgO34NDrt": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/book-of-the-dead/Festering-Gnasher.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/book-of-the-dead/Festering-Gnasher.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "jIypNMJE7rVYpItG": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/book-of-the-dead/Fiddling-Bones.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/book-of-the-dead/Fiddling-Bones.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "hDQmEtisrgRmufUW": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/book-of-the-dead/Fluxwraith.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/book-of-the-dead/Fluxwraith.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "gXo04F7O4pwOY698": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/book-of-the-dead/Gallowdead.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/book-of-the-dead/Gallowdead.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "XrSjNpkJkBO6ysRG": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/book-of-the-dead/Gashadokuro.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/book-of-the-dead/Gashadokuro.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "iEQOUQk1wVHFsajW": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/book-of-the-dead/Geist.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/book-of-the-dead/Geist.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "bckYmdaq03CUDdc5": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/book-of-the-dead/Gholdako.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/book-of-the-dead/Gholdako.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "UMDBlaViAdaw2lnN": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/book-of-the-dead/Ghost-Pirate-Captain.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/book-of-the-dead/Ghost-Pirate-Captain.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "vOuiG3tRcr8yL4jh": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/book-of-the-dead/Ghul.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/book-of-the-dead/Ghul.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "c6qRZuHQ7RHJEAtj": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/book-of-the-dead/Grappling-Spirit.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/book-of-the-dead/Grappling-Spirit.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Wv9iS7JacYjymqlY": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/book-of-the-dead/Harlo-Krant.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/book-of-the-dead/Harlo-Krant.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "laYufBuih3cT95j4": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/book-of-the-dead/Hollow-Serpent.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/book-of-the-dead/Hollow-Serpent.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "wGEZUOgoJNkgXx9Z": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/book-of-the-dead/Horde-Lich.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/book-of-the-dead/Horde-Lich.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "DMZo6DXmScDXJpJd": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/book-of-the-dead/Hunter-Wight.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/book-of-the-dead/Hunter-Wight.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "qO20so7Mv2pmsLL1": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/book-of-the-dead/Husk-Zombie.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/book-of-the-dead/Husk-Zombie.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "7JWjoMGf7f7PZgSD": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/book-of-the-dead/Ice-Mummy.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/book-of-the-dead/Ice-Mummy.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "zOEuwWcvD7sQA1kc": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/book-of-the-dead/Ichor-Slinger.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/book-of-the-dead/Ichor-Slinger.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "tb2nr2ycARadI3Pg": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/book-of-the-dead/Iroran-Mummy.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/book-of-the-dead/Iroran-Mummy.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "3pQvzrGhxO3bUwYT": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/book-of-the-dead/Iruxi-Ossature.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/book-of-the-dead/Iruxi-Ossature.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "dlizffh8cFUFOhUf": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/book-of-the-dead/Jitterbone-Contortionist.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/book-of-the-dead/Jitterbone-Contortionist.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "5ukWvQqK17BQl31O": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/book-of-the-dead/Lacedon.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/book-of-the-dead/Lacedon.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "abnTemoEnsqZPbKZ": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/book-of-the-dead/Last-Guard.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/book-of-the-dead/Last-Guard.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "vvxnRuYBU2uCBPPI": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/book-of-the-dead/Little-Man-In-The-Woods.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/book-of-the-dead/Little-Man-In-The-Woods.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "uqY9TkQTO5n9rCLZ": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/book-of-the-dead/Llorona.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/book-of-the-dead/Llorona.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "L0JAq1IGEsjJwTbl": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/book-of-the-dead/Minister-Of-Tumult.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/book-of-the-dead/Minister-Of-Tumult.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "3CdslCv2CMP7O12F": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/book-of-the-dead/Mummified-Cat.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/book-of-the-dead/Mummified-Cat.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "8qB0gj8salw8746I": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/book-of-the-dead/Mummy-Prophet-Of-Set.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/book-of-the-dead/Mummy-Prophet-Of-Set.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "1hdQjYLtup92Jlls": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/book-of-the-dead/Obrousian.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/book-of-the-dead/Obrousian.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "mL4l2kwPPSMKwzQo": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/book-of-the-dead/Onryo.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/book-of-the-dead/Onryo.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Ze8SKqa4T8lhSDup": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/book-of-the-dead/Pale-Sovereign.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/book-of-the-dead/Pale-Sovereign.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "GcHzyaMYK5QeKUyM": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/book-of-the-dead/Pale-Stranger.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/book-of-the-dead/Pale-Stranger.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "M59XiYnJ4Z3bSwCC": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/book-of-the-dead/Polong.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/book-of-the-dead/Polong.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "e49MDE5dJQ1XFq3O": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/book-of-the-dead/Predatory-Rabbit.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/book-of-the-dead/Predatory-Rabbit.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "OsIjZpdtKmKrrBID": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/book-of-the-dead/Priest-Of-Kabriri.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/book-of-the-dead/Priest-Of-Kabriri.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "ZSrMFLrb5CzFH5WX": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/book-of-the-dead/Provincial-Jiang-Shi.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/book-of-the-dead/Provincial-Jiang-Shi.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "DVpP5ObHDoT0OULK": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/book-of-the-dead/Prowler-Wight.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/book-of-the-dead/Prowler-Wight.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "avBb4LvR3TsYpXma": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/book-of-the-dead/Queen-Sluagh.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/book-of-the-dead/Queen-Sluagh.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "j88xR2MqqZrmF5Wz": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/book-of-the-dead/Raw-Nerve.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/book-of-the-dead/Raw-Nerve.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "cEJh8SY1YDULyhI9": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/book-of-the-dead/Relictner-Eroder.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/book-of-the-dead/Relictner-Eroder.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "zPQZLswJISQrvPb7": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/book-of-the-dead/Runecarved-Lich.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/book-of-the-dead/Runecarved-Lich.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "z3BpUMkUFoXqOFgf": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/book-of-the-dead/Scorned-Hound.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/book-of-the-dead/Scorned-Hound.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "ypOgr8kPy6KqXAAd": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/book-of-the-dead/Seetangeist.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/book-of-the-dead/Seetangeist.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "pDA6tCwQ3pE6ji4U": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/book-of-the-dead/Shadern-Immolator.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/book-of-the-dead/Shadern-Immolator.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "eEE3lRhXCjGzlRLJ": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/book-of-the-dead/Shredskin.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/book-of-the-dead/Shredskin.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "hhoSyH9QthtvFptC": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/book-of-the-dead/Siabrae.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/book-of-the-dead/Siabrae.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Cl1SZNiURw65rz4p": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/book-of-the-dead/Silent-Stalker.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/book-of-the-dead/Silent-Stalker.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "ipVQuGff2OeTVwFK": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/book-of-the-dead/Skeletal-Mage.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/book-of-the-dead/Skeletal-Mage.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "dKkHFA4aBgk82QJO": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/book-of-the-dead/Skeletal-Soldier.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/book-of-the-dead/Skeletal-Soldier.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "uURI8Netd0ytD9vc": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/book-of-the-dead/Sluagh-Reaper.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/book-of-the-dead/Sluagh-Reaper.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Ur3dzfmvtN7lyPNG": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/book-of-the-dead/Taunting-Skull.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/book-of-the-dead/Taunting-Skull.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "0PrrwvV1936eSCQy": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/book-of-the-dead/Tormented.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/book-of-the-dead/Tormented.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "AXp5EzgP7p8FrYpN": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/book-of-the-dead/Tormented.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/book-of-the-dead/Tormented.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "f2dAjBXK55w6rnsh": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/book-of-the-dead/Tormented.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/book-of-the-dead/Tormented.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "dcLHA7tihCF2Mraj": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/book-of-the-dead/Tormented.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/book-of-the-dead/Tormented.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "VN2Vz1dxA9ti66bC": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/book-of-the-dead/Tormented.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/book-of-the-dead/Tormented.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "hjBcN7ulP6FSK7ie": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/book-of-the-dead/Tormented.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/book-of-the-dead/Tormented.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "LWLUaSHl8YCZdDMH": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/book-of-the-dead/Vetalarana-Emergent.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/book-of-the-dead/Vetalarana-Emergent.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Nzf3AfA46cBiWCwN": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/book-of-the-dead/Vetalarana-Manipulator.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/book-of-the-dead/Vetalarana-Manipulator.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "VYLTAIVA9qUsbujo": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/book-of-the-dead/Waldgeist.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/book-of-the-dead/Waldgeist.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "kY8MSttryLjbI5wN": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/book-of-the-dead/Wight-Commander.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/book-of-the-dead/Wight-Commander.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "z72hPIIjIiLIxnor": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/book-of-the-dead/Withered.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/book-of-the-dead/Withered.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "8o27tdIZFp0eTs5N": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/book-of-the-dead/Zombie-Lord.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/book-of-the-dead/Zombie-Lord.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "TipfHGlT5ctn1JV0": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/book-of-the-dead/Zombie-Mammoth.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/book-of-the-dead/Zombie-Mammoth.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "nbVljZhCnWgGxA18": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/book-of-the-dead/Zombie-Owlbear.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/book-of-the-dead/Zombie-Owlbear.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "ZqZlji7aCGCGATMP": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/book-of-the-dead/Zombie-Snake.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/book-of-the-dead/Zombie-Snake.webp",
+            "scale": 2
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "pf2e.malevolence-bestiary": {
+    "VgBE6ow0CvsQxFkq": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/standalone-adventures/malevolence/Algea.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/standalone-adventures/malevolence/Algea.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Wkn2wZbsNSifAnBh": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/standalone-adventures/malevolence/Anitoli-Nostraema.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/standalone-adventures/malevolence/Anitoli-Nostraema.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "bEFdPjTLtNboaTg2": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/standalone-adventures/malevolence/Esobok-Ghoul.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/standalone-adventures/malevolence/Esobok-Ghoul.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "n3taMFiViyEQ5JAi": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/standalone-adventures/malevolence/Ioseff-Xarwin.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/standalone-adventures/malevolence/Ioseff-Xarwin.webp",
+            "scale": 2
+          }
+        }
+      },
+      "scale": 2.6
+    },
+    "1wb9Vi3V4GDeOBCt": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/standalone-adventures/malevolence/Ixirizmid.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/standalone-adventures/malevolence/Ixirizmid.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "YSL27Oq2xFIzrq9u": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/standalone-adventures/malevolence/Nils-Kelveken.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/standalone-adventures/malevolence/Nils-Kelveken.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "1XrwqxEW8rUr8238": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/standalone-adventures/malevolence/Tanglebones.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/standalone-adventures/malevolence/Tanglebones.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "JMXNSC7M2SRGZbhy": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/standalone-adventures/malevolence/Undead-Brain-Collector.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/standalone-adventures/malevolence/Undead-Brain-Collector.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "sdpB7n2LbzVRqrnv": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/standalone-adventures/malevolence/Yianyin.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/standalone-adventures/malevolence/Yianyin.webp",
+            "scale": 2
+          }
+        }
+      }
+    }
+  }
+}

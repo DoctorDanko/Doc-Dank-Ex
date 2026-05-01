@@ -1,0 +1,292 @@
+{
+  "pf2e.rusthenge-bestiary": {
+    "romVSuOVkSVFwsN4": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/standalone-adventures/rusthenge/Clockwork-Belimarius.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/standalone-adventures/rusthenge/Clockwork-Belimarius.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "DetuCfGXs1UGdVdz": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/standalone-adventures/rusthenge/Clockwork-Serpent-Spy.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/standalone-adventures/rusthenge/Clockwork-Serpent-Spy.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "yscVNbJvyotk9NLG": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/standalone-adventures/rusthenge/Dretch.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/standalone-adventures/rusthenge/Dretch.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "LeN4l03TAmPiAjdK": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/standalone-adventures/rusthenge/Fallen-Acolyte.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/standalone-adventures/rusthenge/Fallen-Acolyte.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "GtI25Mqe9uQxandy": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/standalone-adventures/rusthenge/Glutu.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/standalone-adventures/rusthenge/Glutu.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "5WblkuUbhqpFk7iu": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/standalone-adventures/rusthenge/Knurr-Ragnulf.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/standalone-adventures/rusthenge/Knurr-Ragnulf.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "FPIjWBVNisjWRXHp": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/standalone-adventures/rusthenge/Meitremar.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/standalone-adventures/rusthenge/Meitremar.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "ye8Niis34NfY30TS": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/standalone-adventures/rusthenge/Ordwi.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/standalone-adventures/rusthenge/Ordwi.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "FUxaVKVEV8eOuTVB": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/standalone-adventures/rusthenge/Primordial-Envy.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/standalone-adventures/rusthenge/Primordial-Envy.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "UMDbYqoMhnLZQ2gf": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/standalone-adventures/rusthenge/Rust-Zombie.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/standalone-adventures/rusthenge/Rust-Zombie.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "ARjMJb6LCtwdNDM6": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/standalone-adventures/rusthenge/Rustsworn-Initiate.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/standalone-adventures/rusthenge/Rustsworn-Initiate.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "BXS36BprDgzSnXuZ": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/standalone-adventures/rusthenge/Severed-Head.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/standalone-adventures/rusthenge/Severed-Head.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "otBXbd41vVLZW1xv": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/standalone-adventures/rusthenge/Starving-Werebat.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/standalone-adventures/rusthenge/Starving-Werebat.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "RnqXo9fN1ST0kOZ5": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/standalone-adventures/rusthenge/Theiltemar.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/standalone-adventures/rusthenge/Theiltemar.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "1oVJFDY5BJQxO3k9": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/standalone-adventures/rusthenge/Trygve.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/standalone-adventures/rusthenge/Trygve.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "H3Ma71C2ZEku2RdG": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/standalone-adventures/rusthenge/Vanda.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/standalone-adventures/rusthenge/Vanda.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "heYhZGnVa9XSFuUN": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/standalone-adventures/rusthenge/Vlorian-Cythnigot.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/standalone-adventures/rusthenge/Vlorian-Cythnigot.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "vQeUoEfY80yBs0Bb": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/standalone-adventures/rusthenge/Zaiox.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/standalone-adventures/rusthenge/Zaiox.webp",
+            "scale": 2
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,1028 @@
+{
+  "pf2e.rage-of-elements-bestiary": {
+    "hGPjJjjqBc42VrFs": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/rage-of-elements/Anemos.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/rage-of-elements/Anemos.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "7zKCt0OyooqW9UkL": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/rage-of-elements/Ardande-Gardener.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/rage-of-elements/Ardande-Gardener.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "IPKzI7XwILuDc21S": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/rage-of-elements/Asp-Of-Grief.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/rage-of-elements/Asp-Of-Grief.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "PameP0qGSvNrhGeH": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/rage-of-elements/Avalanche-Legion.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/rage-of-elements/Avalanche-Legion.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "6VCNPJ3xPw4Js52V": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/rage-of-elements/Blustering-Gale.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/rage-of-elements/Blustering-Gale.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "EHowgLz8ohFGTGvG": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/rage-of-elements/Boiling-Spring.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/rage-of-elements/Boiling-Spring.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "411wAxSMPPAImVz5": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/rage-of-elements/Brass-Bastion.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/rage-of-elements/Brass-Bastion.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "3ItvROg0JbYKUGRu": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/rage-of-elements/Brochmaw.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/rage-of-elements/Brochmaw.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "RFxLankyC74BEY03": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/rage-of-elements/Capritellix.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/rage-of-elements/Capritellix.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "P3UcyuiqqYPzAwwF": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/rage-of-elements/Carved-Beast.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/rage-of-elements/Carved-Beast.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "7qRWMhYwrTHv58VG": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/rage-of-elements/Comozant-Wyrd.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/rage-of-elements/Comozant-Wyrd.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "5nf90vfzOVFbGEZZ": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/rage-of-elements/Gluttonous-Geode.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/rage-of-elements/Gluttonous-Geode.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "jKSirpKNicffmRpW": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/rage-of-elements/Crysmal.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/rage-of-elements/Crysmal.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "vM6zlGT02raJqPTu": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/rage-of-elements/Despairing-Pall.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/rage-of-elements/Despairing-Pall.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "NHWf9R3yN5Iil7Zh": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/rage-of-elements/Dewdrop-Jelly.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/rage-of-elements/Dewdrop-Jelly.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "GdXjhFu8Afg24fM9": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/rage-of-elements/Elder-Outcrop.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/rage-of-elements/Elder-Outcrop.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "E7OZ0cdycOi5Cuu1": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/rage-of-elements/Faydhaan-Shuyookh.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/rage-of-elements/Faydhaan-Shuyookh.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Gqz1qtpdgAl13pCE": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/rage-of-elements/Gennayn.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/rage-of-elements/Gennayn.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "ki7r3AMO0lROqzcK": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/rage-of-elements/Gluttonous-Geode.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/rage-of-elements/Gluttonous-Geode.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "YKEPPmyqTvVSApo8": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/rage-of-elements/Harvest-Regiment.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/rage-of-elements/Harvest-Regiment.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "XL7B63sTgdDJPbVQ": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/rage-of-elements/Ifrit-Shuyookh.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/rage-of-elements/Ifrit-Shuyookh.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "O3Rjdf00nJOHF4PE": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/rage-of-elements/Jaathoom-Shuyookh.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/rage-of-elements/Jaathoom-Shuyookh.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "1cpG2DuXPXq3DMBx": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/rage-of-elements/Jabali-Shuyookh.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/rage-of-elements/Jabali-Shuyookh.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "RObxZM2z4P6ZW3hN": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/rage-of-elements/Jann-Shuyookh.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/rage-of-elements/Jann-Shuyookh.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "QkD7kUl6KvUvPAYA": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/rage-of-elements/Kizidhar.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/rage-of-elements/Kizidhar.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "eMbeqzGyypNU1wTS": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/rage-of-elements/Kizidhar-Shuyookh.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/rage-of-elements/Kizidhar-Shuyookh.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "D1WlR977uIedFwAr": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/rage-of-elements/Lava-Otter.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/rage-of-elements/Lava-Otter.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "kzczIOOaDfPlFc03": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/rage-of-elements/Lithic-Locus.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/rage-of-elements/Lithic-Locus.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "WrGYN6jtEfv7k1pV": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/rage-of-elements/Living-Grove.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/rage-of-elements/Living-Grove.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "CKRqlCHgvZp9YL5s": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/rage-of-elements/Living-Lodestone.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/rage-of-elements/Living-Lodestone.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "TPi6QRmfyM9BWSof": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/rage-of-elements/Living-Magma.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/rage-of-elements/Living-Magma.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "XvFyRUv2BxgjKm77": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/rage-of-elements/Lomori-Sprout.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/rage-of-elements/Lomori-Sprout.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "BKHoKKSWvc7rQoyz": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/rage-of-elements/Mercurial.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/rage-of-elements/Mercurial.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Vtx0UBhy5aUu3UMO": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/rage-of-elements/Metal-Wisp.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/rage-of-elements/Metal-Wisp.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "h6oWKFSqpXHnOg5h": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/rage-of-elements/Munsahir-Gatecrasher.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/rage-of-elements/Munsahir-Gatecrasher.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Vv9ffFM1qiTdIEsy": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/rage-of-elements/Munsahir-Trooper.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/rage-of-elements/Munsahir-Trooper.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Rv14qdCi4cTEBXJ4": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/rage-of-elements/Murajau.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/rage-of-elements/Murajau.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "nhIxIC4O6XGUZ8Ng": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/rage-of-elements/Nanoshard-Swarm.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/rage-of-elements/Nanoshard-Swarm.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "IBfXxdi8ja4095km": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/rage-of-elements/Nightwood-Guardian.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/rage-of-elements/Nightwood-Guardian.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "bzMyAFhSQ1mfTNx9": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/rage-of-elements/Nursery-Crawler.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/rage-of-elements/Nursery-Crawler.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "xorqWffvwJFUFuON": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/rage-of-elements/Olobigonde.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/rage-of-elements/Olobigonde.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "rmno91OxFdAJX5ap": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/rage-of-elements/Ore-Louse.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/rage-of-elements/Ore-Louse.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "AahAJjsv74rPfAG5": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/rage-of-elements/Oregorger.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/rage-of-elements/Oregorger.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "ikcWmhEdL5G0s9T4": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/rage-of-elements/Painted-Stag.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/rage-of-elements/Painted-Stag.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "YWFBlSODRkWD60Je": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/rage-of-elements/Picture-In-Clouds.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/rage-of-elements/Picture-In-Clouds.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "d0InnF6QVgDIG4j3": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/rage-of-elements/Quickiron-Plasm.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/rage-of-elements/Quickiron-Plasm.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "m2WdV4XJ3r70mnJX": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/rage-of-elements/Rakkatak.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/rage-of-elements/Rakkatak.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "ytvGscCgKbOCn0dB": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/rage-of-elements/Rust-Scarab.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/rage-of-elements/Rust-Scarab.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "7Y3DAOMaLzqmRqUh": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/rage-of-elements/Saltborn-Stalkers.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/rage-of-elements/Saltborn-Stalkers.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "XyU6fPkQJjS1VFTb": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/rage-of-elements/Skymetal-Striker.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/rage-of-elements/Skymetal-Striker.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "NhmmvWicMmhXuKJo": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/rage-of-elements/Snapdrake.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/rage-of-elements/Snapdrake.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Kv6zyQC3JCEWWwvf": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/rage-of-elements/Living-Magma.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/rage-of-elements/Living-Magma.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "uEabVqGzN4TprwHw": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/rage-of-elements/Sootsoldiers.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/rage-of-elements/Sootsoldiers.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "zBUFjuz3dR8bacee": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/rage-of-elements/Sootsoldiers.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/rage-of-elements/Sootsoldiers.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "g36FR0xlbMSvWqdS": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/rage-of-elements/Talos-Gadgeteer.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/rage-of-elements/Talos-Gadgeteer.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "JR7VT7ObQRaBtUlk": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/rage-of-elements/Tantriog.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/rage-of-elements/Tantriog.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "TlM6ePIW2yHNOMJv": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/rage-of-elements/Twins-Of-Rowan.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/rage-of-elements/Twins-Of-Rowan.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "m6lUcyekHwJxTLzo": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/rage-of-elements/Vault-Keeper.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/rage-of-elements/Vault-Keeper.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "7C6sSVh7jipvHKbV": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/rage-of-elements/Vegetable-Lamb.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/rage-of-elements/Vegetable-Lamb.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "RZ83RzvCJJHHooyk": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/rage-of-elements/Veldenar.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/rage-of-elements/Veldenar.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "LVLf8bfqqLkM56tj": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/rage-of-elements/Wood-Wisp.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/rage-of-elements/Wood-Wisp.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "a2kTygtqIuMCSLIr": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/rage-of-elements/Zuhra-Shuyookh.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/rage-of-elements/Zuhra-Shuyookh.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "E3n4MNWQNPR2o3bG": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/rage-of-elements/Pelegox-Cube.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/rage-of-elements/Pelegox-Cube.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Mw0sQmrSf9hao5mF": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/rage-of-elements/Zuhra.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/rage-of-elements/Zuhra.webp",
+            "scale": 2
+          }
+        }
+      }
+    }
+  }
+}

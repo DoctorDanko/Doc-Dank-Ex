@@ -1,0 +1,324 @@
+{
+  "pf2e.fall-of-plaguestone-bestiary": {
+    "yFfT9yPbUzldlhxN": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/standalone-adventures/fall-of-plaguestone/Alchemical-Drudge.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/standalone-adventures/fall-of-plaguestone/Alchemical-Drudge.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "JtBjUnYz859krAVv": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/standalone-adventures/fall-of-plaguestone/Bee-Swarm.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/standalone-adventures/fall-of-plaguestone/Bee-Swarm.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "b2PXIdbqdzlkGkeX": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/standalone-adventures/fall-of-plaguestone/Blood-Ooze.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/standalone-adventures/fall-of-plaguestone/Blood-Ooze.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "C7Wb70xpG2PvTslg": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/standalone-adventures/fall-of-plaguestone/Bloodlash-Bush.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/standalone-adventures/fall-of-plaguestone/Bloodlash-Bush.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "PFBclNHc78MqYjBB": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/standalone-adventures/fall-of-plaguestone/Caustic-Wolf.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/standalone-adventures/fall-of-plaguestone/Caustic-Wolf.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "9dUSCjehW90dZalE": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/standalone-adventures/fall-of-plaguestone/Fiery-Leopard.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/standalone-adventures/fall-of-plaguestone/Fiery-Leopard.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "1Nr9cgWHMn8KtiXe": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/standalone-adventures/fall-of-plaguestone/Giant-Lightning-Serpent.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/standalone-adventures/fall-of-plaguestone/Giant-Lightning-Serpent.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "mTVzzdrinwHbsvqu": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/standalone-adventures/fall-of-plaguestone/Graytusk.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/standalone-adventures/fall-of-plaguestone/Graytusk.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "H4yGpC6VuQpszlUl": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/standalone-adventures/fall-of-plaguestone/Hallod.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/standalone-adventures/fall-of-plaguestone/Hallod.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "EhtODTbFdElXSyXX": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/standalone-adventures/fall-of-plaguestone/Icy-Rat.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/standalone-adventures/fall-of-plaguestone/Icy-Rat.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "3h9BvfzrIU6fNxch": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/standalone-adventures/fall-of-plaguestone/Lord-Nar.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/standalone-adventures/fall-of-plaguestone/Lord-Nar.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "kZI5UjgXcJjrOIR8": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/standalone-adventures/fall-of-plaguestone/Mangy-Wolf.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/standalone-adventures/fall-of-plaguestone/Mangy-Wolf.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "WV8sdgARGVUb39WM": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/standalone-adventures/fall-of-plaguestone/Mutant-Wolf.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/standalone-adventures/fall-of-plaguestone/Mutant-Wolf.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "X0AJV2Zfj2d6rab5": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/standalone-adventures/fall-of-plaguestone/Orc-Alchemist.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/standalone-adventures/fall-of-plaguestone/Orc-Alchemist.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "23kCcF391RtapbfJ": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/standalone-adventures/fall-of-plaguestone/Stone-Horse.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/standalone-adventures/fall-of-plaguestone/Stone-Horse.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "lPHwAyFAeAhHLNnU": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/standalone-adventures/fall-of-plaguestone/The-Amalgam.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/standalone-adventures/fall-of-plaguestone/The-Amalgam.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "IU4Gx9vHKMT2KYDq": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/standalone-adventures/fall-of-plaguestone/The-Behemoth.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/standalone-adventures/fall-of-plaguestone/The-Behemoth.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "h9b23NJBKSACAkWa": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/standalone-adventures/fall-of-plaguestone/The-Sculptor.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/standalone-adventures/fall-of-plaguestone/The-Sculptor.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Er9kW7JtUX4zf15Q": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/standalone-adventures/fall-of-plaguestone/Vilree-Eldara.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/standalone-adventures/fall-of-plaguestone/Vilree-Eldara.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "wBCpq9pX4NZFXE0T": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/standalone-adventures/fall-of-plaguestone/Vine-Lasher.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/standalone-adventures/fall-of-plaguestone/Vine-Lasher.webp",
+            "scale": 2
+          }
+        }
+      }
+    }
+  }
+}

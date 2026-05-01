@@ -1,0 +1,180 @@
+{
+  "pf2e.war-of-immortals-bestiary": {
+    "yQIro3136G7EUgLQ": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/war-of-immortals/Agyra.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/war-of-immortals/Agyra.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "H2RSvVckwPdFCAYY": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/war-of-immortals/Immortal-Trickster.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/war-of-immortals/Immortal-Trickster.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "AQw3uql8ovK4NPPi": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/war-of-immortals/Mythic-Gogiteth.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/war-of-immortals/Mythic-Gogiteth.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "z9AJIIWfoZqmXHdJ": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/war-of-immortals/Mythic-Griffon.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/war-of-immortals/Mythic-Griffon.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Roj3l7HjnV0kFq9a": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/war-of-immortals/Mythic-Lich.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/war-of-immortals/Mythic-Lich.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "F9HHYowsSs0CLMX0": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/war-of-immortals/Mythic-Ogre-Boss.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/war-of-immortals/Mythic-Ogre-Boss.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "fH8t5uKyFA4UuZqp": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/war-of-immortals/Oliphaunt-Of-Jandelay.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/war-of-immortals/Oliphaunt-Of-Jandelay.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Om9ruhbwPNISjwDr": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/war-of-immortals/Sublime-Breath.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/war-of-immortals/Sublime-Breath.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "qPFA9IM6QjnSuagx": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/war-of-immortals/Verex-That-Was.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/war-of-immortals/Verex-That-Was.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "FpM4xd45aBf7wsqH": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/war-of-immortals/Vulot.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/war-of-immortals/Vulot.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "otEC0HMg4whUaLAD": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/war-of-immortals/Weaver-Of-Webs.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/war-of-immortals/Weaver-Of-Webs.webp",
+            "scale": 2
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "pf2e.npc-gallery": {
+    "crTWewxna93vEt6B": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/npc-gallery/Acolyte.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/npc-gallery/Acolyte.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "K2STan8izudm9eEn": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/npc-gallery/Antipaladin.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/npc-gallery/Antipaladin.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "6IADTZHYowxObqAk": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/npc-gallery/Barkeep.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/npc-gallery/Barkeep.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "XpkGaDlyMH2V5wxR": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/npc-gallery/Priest-Of-Pharasma.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/npc-gallery/Priest-Of-Pharasma.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "OSCpJYTr6xNIxqZi": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/ruleboock/npc-gallery/Server.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/ruleboock/npc-gallery/Server.webp",
+            "scale": 2
+          }
+        }
+      }
+    }
+  }
+}

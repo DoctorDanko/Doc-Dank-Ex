@@ -1,0 +1,50 @@
+{
+  "id": "pf2e-ex-token-pack",
+  "title": "Pathfinder 2E: EX Token Pack",
+  "description": "Модуль добавляет изображения и токены монстрам и нпс",
+  "version": "2.6.5",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "authors": [
+    {
+      "name": "Doctor-Metofay",
+      "discord": "Doctor-Метофей#135975",
+      "flags": {}
+    }
+  ],
+  "esmodules": [
+    "data/main.js"
+  ],
+  "languages": [
+    {
+      "lang": "ru",
+      "name": "Russian",
+      "path": "data/lang/ru.json",
+      "flags": {}
+    },
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "data/lang/en.json",
+      "flags": {}
+    }
+  ],
+  "flags": {
+    "compendiumArtMappings": {
+      "pf2e": {
+      "mapping": "modules/pf2e-ex-token-pack/bestiaries.json"
+    }
+  }
+  },
+  "socket": true,
+
+  
+  "url": "https://github.com/Metofay/pf2e-ex-token-pack/tree/v13",
+  "manifest": "https://raw.githubusercontent.com/Metofay/pf2e-ex-token-pack/v13/module.json",
+  "download": "https://github.com/Metofay/pf2e-ex-token-pack/archive/refs/heads/v13.zip",
+  "readme": "https://github.com/Metofay/pf2e-ex-token-pack/blob/v13/README.md",
+  "bugs": "https://github.com/Metofay/pf2e-ex-token-pack/issues",
+  "changelog": "https://github.com/Metofay/pf2e-ex-token-pack/blob/v13/Changelog.md"
+}

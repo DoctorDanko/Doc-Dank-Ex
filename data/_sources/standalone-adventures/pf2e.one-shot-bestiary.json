@@ -1,0 +1,228 @@
+{
+  "pf2e.one-shot-bestiary": {
+    "ws7D95828SXNi4Vp": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/standalone-adventures/one-shot/Carl-The-Cobbler.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/standalone-adventures/one-shot/Carl-The-Cobbler.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "I9nJltbnjRRTKjoj": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/standalone-adventures/one-shot/Vilm.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/standalone-adventures/one-shot/Vilm.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "ODOBHqugzvfGkZVS": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/standalone-adventures/one-shot/Darius.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/standalone-adventures/one-shot/Darius.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "3oCs4xRge4oXjQC4": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/standalone-adventures/one-shot/Meliosas-Leshy.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/standalone-adventures/one-shot/Meliosas-Leshy.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "vTJkvG8rDs0O8HzF": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/standalone-adventures/one-shot/Meliosas-Leshy-Bamboo.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/standalone-adventures/one-shot/Meliosas-Leshy-Bamboo.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "ds8kPHp9yV6F34oX": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/standalone-adventures/one-shot/Meliosas-Leshy-Minkaian.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/standalone-adventures/one-shot/Meliosas-Leshy-Minkaian.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "Aw74KaHNvnWG349N": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/standalone-adventures/one-shot/Meliosas-Leshy-Mint.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/standalone-adventures/one-shot/Meliosas-Leshy-Mint.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "YkHZ8FMeZ7uxsDJ4": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/standalone-adventures/one-shot/Meliosas-Leshy-Wisteria.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/standalone-adventures/one-shot/Meliosas-Leshy-Wisteria.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "8BMVxqhcdNtdStUj": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/standalone-adventures/one-shot/Scented-Candle-Homunculus.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/standalone-adventures/one-shot/Scented-Candle-Homunculus.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "iPhDi4SU6pbTJmef": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/standalone-adventures/one-shot/Auldegrund-Grimcarver.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/standalone-adventures/one-shot/Auldegrund-Grimcarver.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "OPaV3fwegwyQY48m": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/standalone-adventures/one-shot/Lawn-Crawfish.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/standalone-adventures/one-shot/Lawn-Crawfish.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "SoSFKK1TmqMqtnuR": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/standalone-adventures/one-shot/Doatara.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/standalone-adventures/one-shot/Doatara.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "T2lqHFAnZ1u6Z6MD": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/standalone-adventures/one-shot/Doatara.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/standalone-adventures/one-shot/Doatara.webp",
+            "scale": 2
+          }
+        }
+      }
+    },
+    "RGcXNLz4TaziTInr": {
+      "actor": "modules/pf2e-ex-token-pack/portraits/standalone-adventures/one-shot/Pairaka.webp",
+      "token": {
+        "texture": {
+          "scaleX": 2,
+          "scaleY": 2
+        },
+        "ring": {
+          "enabled": true,
+          "subject": {
+            "texture": "modules/pf2e-ex-token-pack/subjects/standalone-adventures/one-shot/Pairaka.webp",
+            "scale": 2
+          }
+        }
+      }
+    }
+  }
+}

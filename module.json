@@ -42,8 +42,8 @@
 
   
   "url": "https://github.com/Metofay/pf2e-ex-token-pack/tree/v13",
-  "manifest": "https://raw.githubusercontent.com/Metofay/pf2e-ex-token-pack/v13/module.json",
-  "download": "https://github.com/Metofay/pf2e-ex-token-pack/archive/refs/heads/v13.zip",
+  "manifest": "https://raw.githubusercontent.com/DoctorDanko/Doc-Dank-Ex/refs/heads/main/module.json",
+  "download": "https://github.com/DoctorDanko/Doc-Dank-Ex/archive/refs/heads/main.zip",
   "readme": "https://github.com/Metofay/pf2e-ex-token-pack/blob/v13/README.md",
   "bugs": "https://github.com/Metofay/pf2e-ex-token-pack/issues",
   "changelog": "https://github.com/Metofay/pf2e-ex-token-pack/blob/v13/Changelog.md"
